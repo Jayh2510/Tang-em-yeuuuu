@@ -9,11 +9,11 @@ const CONFIG = {
     desc: 'Phải chăng em đã say ngay từ lúc thấy anh đẹp zaiii ',
     btnYes: 'Anh kì quá à :">',
     btnNo: 'Méo :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại thích anh <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Do anh đẹp trai vclllll :>>>>',
     mess: 'Anh biết mà 🥰. Yêu em nhìuuuuu 😘😘',
-    messDesc: 'Tối nay 7h anh qua đi nhậu nhé :3.',
+    messDesc: 'Tối nay 7h anh qua đón em đi nhậu nhé :3.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'www.facebook.com/nhanthanh.nguyen.58'
 }
